@@ -1,2 +1,3 @@
 db=dddddd
 pwd=aaaaa
+gitbak
