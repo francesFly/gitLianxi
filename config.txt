@@ -3,3 +3,4 @@ pwd=aaaaa
 gitbak
 gitbak2
 gitbak1
+pay=ali
